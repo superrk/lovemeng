@@ -36,6 +36,7 @@ export default defineConfig({
       }
     })
   ],
+  base: '/lovemeng/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
