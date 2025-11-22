@@ -1,0 +1,1 @@
+// Service Worker is handled by vite-plugin-pwa

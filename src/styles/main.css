@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@plugin "daisyui";
+/* stylelint-disable at-rule-no-unknown */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Custom styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .rounded-button {
+    @apply rounded-full;
+  }
+} */
